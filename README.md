@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Tech Stack
 
+- Typescript
 - Next.js
 - TailwindCSS 3.0
 - Typescript
